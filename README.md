@@ -52,5 +52,5 @@ Here is a quick look at my development activity:
 ###  Connect with Me
 Let's collaborate, talk tech, or discuss software engineering opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/pritish-raman-1bb176285)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritish-raman-1bb176285/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritishraman19@gmail.com)
